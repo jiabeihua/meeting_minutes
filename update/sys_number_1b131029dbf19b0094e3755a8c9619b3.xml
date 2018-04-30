@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_catrl_meeting_mi_followup_task">x_catrl_meeting_mi_followup_task</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>FOL</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admjustin</sys_created_by>
+        <sys_created_on>2018-04-30 15:29:16</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>1b131029dbf19b0094e3755a8c9619b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FOL</sys_name>
+        <sys_package display_value="Meeting Minutes" source="x_catrl_meeting_mi">404a04eddbb19b0094e3755a8c9619cb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Meeting Minutes">404a04eddbb19b0094e3755a8c9619cb</sys_scope>
+        <sys_update_name>sys_number_1b131029dbf19b0094e3755a8c9619b3</sys_update_name>
+        <sys_updated_by>admjustin</sys_updated_by>
+        <sys_updated_on>2018-04-30 15:29:16</sys_updated_on>
+    </sys_number>
+</record_update>

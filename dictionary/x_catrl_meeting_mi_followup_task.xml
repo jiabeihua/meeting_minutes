@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Followup Task" max_length="40" name="x_catrl_meeting_mi_followup_task" type="collection">
+        <element label="Assigned To" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element label="Comments" max_length="4000" name="comments" type="journal_input"/>
+        <element label="Description" max_length="4000" name="description" type="string"/>
+        <element label="Due Date" max_length="40" name="due_date" type="glide_date"/>
+        <element label="Meeting Minutes" max_length="32" name="meeting_minutes" reference="x_catrl_meeting_mi_meeting_minutes" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Short Description" max_length="100" name="short_description" type="string"/>
+        <element choice="1" label="State" max_length="40" name="state" type="choice">
+            <choice/>
+        </element>
+        <index name="index">
+            <element name="meeting_minutes"/>
+        </index>
+        <index name="index2">
+            <element name="assigned_to"/>
+        </index>
+    </element>
+</database>
