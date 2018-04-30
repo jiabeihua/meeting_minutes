@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="948550a9dbf19b0094e3755a8c9619d7" sys_domain="global" table="x_catrl_meeting_mi_followup_task" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admjustin</sys_created_by>
+            <sys_created_on>2018-04-30 15:44:23</sys_created_on>
+            <sys_id>a896dca9dbf19b0094e3755a8c9619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_catrl_meeting_mi_followup_task" sys_domain="global" view="Default view">948550a9dbf19b0094e3755a8c9619d7</sys_ui_section>
+            <sys_updated_by>admjustin</sys_updated_by>
+            <sys_updated_on>2018-04-30 15:44:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meeting_minutes</element>
+            <position>1</position>
+            <sys_created_by>admjustin</sys_created_by>
+            <sys_created_on>2018-04-30 15:44:23</sys_created_on>
+            <sys_id>2c96dca9dbf19b0094e3755a8c9619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_catrl_meeting_mi_followup_task" sys_domain="global" view="Default view">948550a9dbf19b0094e3755a8c9619d7</sys_ui_section>
+            <sys_updated_by>admjustin</sys_updated_by>
+            <sys_updated_on>2018-04-30 15:44:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admjustin</sys_created_by>
+            <sys_created_on>2018-04-30 15:44:23</sys_created_on>
+            <sys_id>ac96dca9dbf19b0094e3755a8c9619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_catrl_meeting_mi_followup_task" sys_domain="global" view="Default view">948550a9dbf19b0094e3755a8c9619d7</sys_ui_section>
+            <sys_updated_by>admjustin</sys_updated_by>
+            <sys_updated_on>2018-04-30 15:44:23</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>3</position>
+            <sys_created_by>admjustin</sys_created_by>
+            <sys_created_on>2018-04-30 15:44:23</sys_created_on>
+            <sys_id>2096dca9dbf19b0094e3755a8c9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_catrl_meeting_mi_followup_task" sys_domain="global" view="Default view">948550a9dbf19b0094e3755a8c9619d7</sys_ui_section>
+            <sys_updated_by>admjustin</sys_updated_by>
+            <sys_updated_on>2018-04-30 15:44:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>due_date</element>
+            <position>4</position>
+            <sys_created_by>admjustin</sys_created_by>
+            <sys_created_on>2018-04-30 15:44:23</sys_created_on>
+            <sys_id>a096dca9dbf19b0094e3755a8c9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_catrl_meeting_mi_followup_task" sys_domain="global" view="Default view">948550a9dbf19b0094e3755a8c9619d7</sys_ui_section>
+            <sys_updated_by>admjustin</sys_updated_by>
+            <sys_updated_on>2018-04-30 15:44:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>5</position>
+            <sys_created_by>admjustin</sys_created_by>
+            <sys_created_on>2018-04-30 15:44:23</sys_created_on>
+            <sys_id>2496dca9dbf19b0094e3755a8c9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_catrl_meeting_mi_followup_task" sys_domain="global" view="Default view">948550a9dbf19b0094e3755a8c9619d7</sys_ui_section>
+            <sys_updated_by>admjustin</sys_updated_by>
+            <sys_updated_on>2018-04-30 15:44:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>admjustin</sys_created_by>
+            <sys_created_on>2018-04-30 15:44:23</sys_created_on>
+            <sys_id>a496dca9dbf19b0094e3755a8c9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_catrl_meeting_mi_followup_task" sys_domain="global" view="Default view">948550a9dbf19b0094e3755a8c9619d7</sys_ui_section>
+            <sys_updated_by>admjustin</sys_updated_by>
+            <sys_updated_on>2018-04-30 15:44:23</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>7</position>
+            <sys_created_by>admjustin</sys_created_by>
+            <sys_created_on>2018-04-30 15:44:23</sys_created_on>
+            <sys_id>2896dca9dbf19b0094e3755a8c9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_catrl_meeting_mi_followup_task" sys_domain="global" view="Default view">948550a9dbf19b0094e3755a8c9619d7</sys_ui_section>
+            <sys_updated_by>admjustin</sys_updated_by>
+            <sys_updated_on>2018-04-30 15:44:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>8</position>
+            <sys_created_by>admjustin</sys_created_by>
+            <sys_created_on>2018-04-30 15:44:23</sys_created_on>
+            <sys_id>a896dca9dbf19b0094e3755a8c9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_catrl_meeting_mi_followup_task" sys_domain="global" view="Default view">948550a9dbf19b0094e3755a8c9619d7</sys_ui_section>
+            <sys_updated_by>admjustin</sys_updated_by>
+            <sys_updated_on>2018-04-30 15:44:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>9</position>
+            <sys_created_by>admjustin</sys_created_by>
+            <sys_created_on>2018-04-30 15:44:23</sys_created_on>
+            <sys_id>2c96dca9dbf19b0094e3755a8c9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_catrl_meeting_mi_followup_task" sys_domain="global" view="Default view">948550a9dbf19b0094e3755a8c9619d7</sys_ui_section>
+            <sys_updated_by>admjustin</sys_updated_by>
+            <sys_updated_on>2018-04-30 15:44:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>10</position>
+            <sys_created_by>admjustin</sys_created_by>
+            <sys_created_on>2018-04-30 15:44:23</sys_created_on>
+            <sys_id>ac96dca9dbf19b0094e3755a8c9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_catrl_meeting_mi_followup_task" sys_domain="global" view="Default view">948550a9dbf19b0094e3755a8c9619d7</sys_ui_section>
+            <sys_updated_by>admjustin</sys_updated_by>
+            <sys_updated_on>2018-04-30 15:44:23</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_catrl_meeting_mi_followup_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admjustin</sys_created_by>
+            <sys_created_on>2018-04-30 15:39:43</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>948550a9dbf19b0094e3755a8c9619d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_catrl_meeting_mi_followup_task</sys_name>
+            <sys_overrides display_value="">global</sys_overrides>
+            <sys_package display_value="Meeting Minutes" source="x_catrl_meeting_mi">404a04eddbb19b0094e3755a8c9619cb</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Meeting Minutes">404a04eddbb19b0094e3755a8c9619cb</sys_scope>
+            <sys_update_name>sys_ui_section_948550a9dbf19b0094e3755a8c9619d7</sys_update_name>
+            <sys_updated_by>admjustin</sys_updated_by>
+            <sys_updated_on>2018-04-30 15:39:43</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Followup Task" max_length="40" name="x_catrl_meeting_mi_followup_task" type="collection">
+    <element audit="true" label="Followup Task" max_length="40" name="x_catrl_meeting_mi_followup_task" type="collection">
         <element label="Assigned To" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
         <element label="Comments" max_length="4000" name="comments" type="journal_input"/>
         <element label="Description" max_length="4000" name="description" type="string"/>
