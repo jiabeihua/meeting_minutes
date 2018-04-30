@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Meeting minutes" max_length="40" name="x_catrl_meeting_mi_meeting_minutes" type="collection">
+    <element audit="true" label="Meeting minutes" max_length="40" name="x_catrl_meeting_mi_meeting_minutes" type="collection">
         <element label="Agenda" max_length="4000" name="agenda" type="string"/>
         <element label="Attendees" max_length="4000" name="attendees" reference="sys_user" type="glide_list"/>
         <element label="Comments" max_length="4000" name="comments" type="journal_input"/>
