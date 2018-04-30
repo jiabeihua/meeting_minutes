@@ -5,13 +5,17 @@
         <element label="Attendees" max_length="4000" name="attendees" reference="sys_user" type="glide_list"/>
         <element label="Comments" max_length="4000" name="comments" type="journal_input"/>
         <element label="End Date" max_length="40" name="end_date" type="glide_date_time"/>
-        <element label="Host" max_length="32" name="host" reference="sys_user" type="reference"/>
+        <element default="javascript:gs.getUserID();" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Host" max_length="32" name="host" reference="sys_user" type="reference" use_dynamic_default="true"/>
         <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
         <element label="Notes" max_length="4000" name="notes" type="html"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
         <element label="Start Date" max_length="40" name="start_date" type="glide_date_time"/>
-        <element choice="1" label="State" max_length="40" name="state" type="choice">
-            <choice/>
+        <element choice="1" default="active" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element label="Active" sequence="10" value="active"/>
+                <element label="Cancelled" sequence="20" value="cancelled"/>
+                <element label="Closed" sequence="100" value="closed"/>
+            </choice>
         </element>
         <element label="Title" max_length="100" name="title" type="string"/>
         <index name="index">
